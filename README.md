@@ -14,7 +14,7 @@
 
 ### Descripción
 
-El proyecto es un semaforo que incluye un buzzer para ayudar a las personas no videntes 
+El proyecto es un semaforo que incluye un buzzer para ayudar a las personas no videntes mediante sonidos. 
 
 ### Función principal
 
